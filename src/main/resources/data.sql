@@ -1,0 +1,11 @@
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("GalaxyS10+", "smartphone", 1000000, "SAMSUNG", 100, "256GB")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("GalaxyS10", "smartphone", 1250000, "SAMSUNG", 50, "128GB")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("iPhoneSE", "smartphone", 1000000, "Apple", 100, "256GB")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("iPhone11Pro", "smartphone", 1250000, "Apple", 50, "128GB")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("MacBook", "computer", 2000000, "Apple", 30, "3.5GHz")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("AirPods", "earphone", 300000, "Apple", 200, "NoiseCancling")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("Gram17", "computer", 2300000, "LG", 40, "under 1kg")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("notebook", "computer", 500000, "noname", 100, "not good")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("GalaxyS20", "smartphone", 2000000, "SAMSUNG", 200, "128GB")
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values ("GalaxyS20+", "smartphone", 2500000, "SAMSUNG", 150, "256GB")
+
